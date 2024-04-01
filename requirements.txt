@@ -1,0 +1,7 @@
+pandasai
+streamlit
+openai
+huggingface
+pandas
+numpy
+langchain
